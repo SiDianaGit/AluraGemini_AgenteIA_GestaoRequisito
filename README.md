@@ -1,0 +1,2 @@
+# AluraGemini_AgenteIA_GestaoRequisito
+
