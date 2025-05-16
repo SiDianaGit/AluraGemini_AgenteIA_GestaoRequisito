@@ -123,7 +123,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## 8. Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+Este projeto é público e pode ser copiado por quem tiver interesse.
 
 ## 9. Autores
 
